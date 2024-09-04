@@ -3,3 +3,5 @@ Algorithm Visualization created by [Minjae Jang](https://minjae21.github.io/inde
 
 ## How It's Made:
 - **Python**
+
+## Algorithms:
